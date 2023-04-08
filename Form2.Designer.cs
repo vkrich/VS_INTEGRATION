@@ -117,7 +117,7 @@ namespace WindowsFormsApp1
             this.label6.Size = new System.Drawing.Size(128, 20);
             this.label6.TabIndex = 0;
             this.label6.Text = "Дата рождения";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
+            
             // 
             // label7
             // 
@@ -161,7 +161,7 @@ namespace WindowsFormsApp1
             this.button2.TabIndex = 4;
             this.button2.Text = "Сохранить и выйти";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            
             // 
             // Form2
             // 
